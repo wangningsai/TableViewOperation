@@ -1,0 +1,3 @@
+# TableViewOperation
+写了一些关于TableView的常见功能操作，其中包含：cell的移动，cell的删除，cell的添加,长按cell可以拖动换位置，以及TableView的联动功能，还有一个类似于qq列表的二级列表功能
+加载plist文件时，要在Build Phases下的Copy Bundle Resources下把plist文件添加进来
